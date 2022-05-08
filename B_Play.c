@@ -12,6 +12,11 @@
  *  杈撳叆锛?   const char* szFilePath:  濯掍綋鏂囦欢Path
  *  杈撳嚭锛?   鏃? *  杩斿洖锛?   鎴愬姛: 0
  * 			 澶辫触:閿欒鐮?**************************************************/
+ 
+ 
+ //多文件修改测试
+ 
+ 
 int B_Play_Openfile(const char* szFilePath)
 {
 	int iRet = 0;

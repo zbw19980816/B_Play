@@ -9,6 +9,9 @@
 
 /***********测试*****************/
 
+
+//多文件修改测试
+
 //Full Screen
 #define SHOW_FULLSCREEN 0
 //Output YUV420P 
